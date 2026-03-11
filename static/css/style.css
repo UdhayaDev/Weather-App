@@ -1,0 +1,7 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+#weatherResult img {
+    width: 100px;
+    height: 100px;
+}
